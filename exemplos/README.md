@@ -34,13 +34,13 @@ Imagem gerada: ![Minha Guerreira Angelical](Designer.png)
 Áudio gerado no ElevenLabs:[ElevenLabs_2026-10-28T23_55_42_Jessica - Playful, Bright, Warm_pvc_sp100_s50_sb75_v4.mp3](https://github.com/user-attachments/files/34106877/ElevenLabs_2026-10-28T23_55_42_Jessica.-.Playful.Bright.Warm_pvc_sp100_s50_sb75_v4.mp3)
 
 
-O resultado ficou muito realista, parece trailer de filme da Netflix.
+O resultado ficou incrível.
 
 ## 💭 Reflexão
-Achei incrível como é fácil criar algo que parece 100% profissional com IA. No começo achei que ia ficar falso, mas a voz do ElevenLabs engana muito bem, dá arrepio de verdade. O que mais me surpreendeu foi como as tags de emoção mudam tudo.
+Achei muito legal e pude vê como é fácil e divertido criar algo que parece profissional, mais feito com IA. No começo eu fiquei meia perdida, afinal é uma experiência nova.
 
 É muito fácil enganar hoje em dia, por isso esse lab "Natty or Fake Natty" faz tanto sentido. Se eu não falasse, muita gente acharia que é uma dubladora real.
 
-Esse projeto me mostrou que a IA não vai substituir a criatividade, mas dá super poderes pra quem tem ideias.
+Esse projeto me mostrou que a IA não vai substituir a criatividade, mas dá super poderes pra quem tem criatividades e ideias.
 
-Feito por isapycoder
+Feito por isapycoder #LabDIONattyOrNot
