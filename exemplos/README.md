@@ -30,7 +30,7 @@ Minha espada brilha por um único motivo. [whispers] Ela está perto.
 No ElevenLabs, usei as tags [cold], [whisper], [shouting] para a voz ficar com emoção, e funcionou super bem.
 
 ## 🚀 Resultados
-Imagem gerada: (vou anexar a imagem aqui na pasta exemplos)
+Imagem gerada: ![Minha Guerreira Angelical](Designer.png)
 Áudio gerado no ElevenLabs:[ElevenLabs_2026-10-28T23_55_42_Jessica - Playful, Bright, Warm_pvc_sp100_s50_sb75_v4.mp3](https://github.com/user-attachments/files/34106877/ElevenLabs_2026-10-28T23_55_42_Jessica.-.Playful.Bright.Warm_pvc_sp100_s50_sb75_v4.mp3)
 
 
